@@ -1,2 +1,10 @@
-@charse"utf-8";
+@charset"utf-8";
+
+.top-title{
+  text-align: center;
+  color: red;
+  margin: 2rem;
+}
+
+
 
